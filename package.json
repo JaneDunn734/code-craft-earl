@@ -1,0 +1,26 @@
+{
+  "name": "code-craft-earl",
+  "description": "code-craft-earl",
+  "version": "0.0.2",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/JaneDunn734",
+  "repository": {
+    "url": "https://github.com/JaneDunn734/code-craft-earl/"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "code",
+    "craft",
+    "project"
+  ],
+  "author": "JaneDunn734",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  }
+}
